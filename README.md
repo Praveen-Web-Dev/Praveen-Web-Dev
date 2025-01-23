@@ -9,8 +9,9 @@
 
 ## 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,typescript,html,css,sass,bootstrap,tailwind,js,sql,mysql,mongodb,azure,github,docker,postman&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,typescript,html,css,sass,bootstrap,tailwind,js,mysql,mongodb,azure,github,docker,postman&perline=8" alt="Tech Stack" />
 </p>
+
 
 ---
 
@@ -25,9 +26,10 @@
 ## 🔥 **GitHub Highlights**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Web-Dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Web-Dev&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Web-Dev&theme=radical" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200?text=Streak+Stats+Unavailable';" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Web-Dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -58,8 +60,8 @@ A dynamic project management app featuring task boards, real-time updates, and r
 
 ## 📬 **Connect With Me**
 <p align="center">
-  <a href="mailto:praveen@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">Praveentej143@yahoo.com</a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://www.linkedin.com/in/praveen-gudigopuram"></a>
+  <a href="Praveentej143@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/praveen-gudigopuram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Praveen-Web-Dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
