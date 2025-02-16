@@ -23,14 +23,13 @@
 
 ---
 
-## 🔥 **GitHub Highlights**
+## 🔥 GitHub Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Web-Dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Web-Dev&theme=radical" onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200?text=Streak+Stats+Unavailable';" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Web-Dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Web-Dev&show_icons=true&theme=radical&cacheBuster=${Math.random()}" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Web-Dev&layout=compact&theme=radical&cacheBuster=${Math.random()}" alt="Top Languages" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-Web-Dev&show_icons=true&theme=radical&cacheBuster=${Math.random()})
+
 
 
 ---
