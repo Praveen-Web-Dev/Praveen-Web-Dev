@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=435&lines=Building+Innovative+Solutions...;3%2B+Years+of+Experience+in+Tech;Frontend+%7C+Backend+%7C+UI%2FUX+Specialist!" alt="Typing Animation">
 </p>
-
+ 
 ---
 
 ## 🚀 **Tech Stack**
