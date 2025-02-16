@@ -30,13 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Web-Dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🔥 GitHub Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveen-Web-Dev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Web-Dev&layout=compact&theme=radical)
-
-
-
 ---
 
 ## 🛠 **Current Projects**
